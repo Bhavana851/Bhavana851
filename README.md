@@ -3,6 +3,30 @@
 <!--
 **Bhavana851/Bhavana851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🌱 I’m currently working on **Setting up infra using Terraform over AWS**
+
+💡 Hashtag that describes me **`#DevOpsWizard`**
+
+📝 I regulary write articles on [Knoldus Blogs](https://blog.knoldus.com/author/yatharthsharma4251/)
+
+💬 Ask me about **DevOps Tools and Practices**
+
+📫 You can reach me at **yatharth0045@gmail.com**
+
+⚡ Fun fact **We guys automate stuff**
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
