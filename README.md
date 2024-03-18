@@ -4,4 +4,7 @@
 - 🌱 I’m currently working on AWS,Docker,Kubernetes,
 - 💬 Ask me about 
 - 📫 You can reach me at: **tjbhavana257@gmail.com**
-- 🧾 Certifications I have Accomplished
+##### 🧾 Certifications I have Accomplished 
+- 🎖 AWS Concepts - udemy
+- 🎖 Docker and Kubernetes - udemy
+- 
