@@ -3,6 +3,8 @@
 <!--
 **Bhavana851/Bhavana851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
+
 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
