@@ -1,7 +1,5 @@
-### Hi 👋 I'm Bhavana T J from India 
-
-Aspiring to be Devops Engineer
-
+### Hi 👋 I'm Bhavana T J
+<h3 align="center">Aspiring to be Devops Engineer</h3>
 <!--
 **Bhavana851/Bhavana851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
